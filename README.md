@@ -1,2 +1,2 @@
 # SwethaS
-My Assignments
+Data Science
